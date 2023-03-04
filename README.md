@@ -1,3 +1,3 @@
 ### Bonjour 👋
 
-[![Mes stats Github :](https://github-readme-stats.vercel.app/api?username=En0ri4n)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=En0ri4n&count_private=true)
