@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=En0ri4n&count_private=true&theme=blue-green&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=En0ri4n&count_private=true&theme=blue-green&include_all_commits=true&PAT_1=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">
 </div>
 
 ###
@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=En0ri4n&layout=compact&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=En0ri4n&layout=compact&theme=gotham&PAT_1=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">
 </div>
 
 <h2 align="center">What I Use</h2>
