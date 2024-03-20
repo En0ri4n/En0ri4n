@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=En0ri4n&count_private=true&theme=blue-green&include_all_commits=true&PAT_1=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">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=En0ri4n&theme=github-compact">
 </div>
 
 ###
