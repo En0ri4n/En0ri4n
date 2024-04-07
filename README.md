@@ -51,4 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/gradle/gradle-plain-wordmark.svg" height="40" width="52" alt="gradle logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/php/php-original.svg" height="40" width="52" alt="php logo"  /> 
+  <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  /> 
+  <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/javascript/javascript-original.svg" height="40" width="52" alt="js logo"  /> 
 </div>
