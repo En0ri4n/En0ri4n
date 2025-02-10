@@ -54,4 +54,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/php/php-original.svg" height="40" width="52" alt="php logo"  /> 
   <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/jetbrains/jetbrains-original.svg" height="40" width="52" alt="jetbrains logo"  /> 
   <img src="https://github.com/devicons/devicon/raw/v2.15.1/icons/javascript/javascript-original.svg" height="40" width="52" alt="js logo"  /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/maven/maven-original-wordmark.svg" height="40" width="52" alt="maven logo"  /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original-wordmark.svg" height="40" width="52" alt="angular logo"  /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="52" alt="postgresql logo"  /> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  /> 
 </div>
